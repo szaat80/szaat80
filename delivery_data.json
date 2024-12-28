@@ -1,0 +1,46 @@
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "valami", "delivery_number": "11111111", "m3": 8}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "dd", "delivery_number": "222", "m3": 8}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 15-20", "address": "dd", "delivery_number": "222", "m3": 8}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "fgn", "delivery_number": "1111", "m3": 8}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "fgn", "delivery_number": "1111", "m3": 7}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "", "delivery_number": "", "m3": 8}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "", "delivery_number": "", "m3": 7}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "", "delivery_number": "", "m3": 55}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "", "delivery_number": "", "m3": 55}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "", "delivery_number": "", "m3": 4}
+{"date": "2024-12-24", "km_range": "Övezet 0-5", "address": "catl", "delivery_number": "1111", "m3_values": []}
+{"date": "2024-12-24", "km_range": "Övezet 0-5", "address": "catl", "delivery_number": "1111", "m3_values": []}
+{"date": "2024-12-24", "km_range": "Övezet 0-5", "address": "catl", "delivery_number": "1111", "m3_values": []}
+{"date": "2024-12-24", "km_range": "Övezet 0-5", "address": "", "delivery_number": "", "m3_values": []}
+{"date": "2024-12-24", "km_range": "Övezet 0-5", "address": "", "delivery_number": "", "m3_values": [5.0, 6.0, 5.5, 8.0]}
+{"date": "2024-12-24", "km_range": "Övezet 5-10", "address": "", "delivery_number": "", "m3_values": [5.0, 6.0, 7.0, 6.0, 6.0, 8.0]}
+{"date": "2024-12-24", "km_range": "Övezet 10-15", "address": "catl", "delivery_number": "11", "m3_values": [8.0]}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": []}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": []}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": [6.0]}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": []}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": []}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": [6.0]}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "catl", "delivery_number": "111", "m3_values": [6.0]}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": []}
+{"date": "2024-12-27", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": [5.0]}
+{"date": "2024-12-27", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": [6.0, 7.0]}
+{"date": "2024-12-27", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "Catl", "delivery_number": "1234", "m3_values": [5.0]}
+{"date": "2024-12-27", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "catl", "delivery_number": "1234", "m3_values": [8.0]}
+{"date": "2024-12-27", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": [5.0]}
+{"date": "2024-12-27", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "Vatl", "delivery_number": "1234", "m3_values": [8.0]}
+{"date": "2024-12-27", "km_range": "Övezet 10-15", "factory": "Uni City", "address": "Vatl", "delivery_number": "1234", "m3_values": [8.0]}
+{"date": "2024-12-27", "km_range": "Övezet 5-10", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": [8.0, 7.0]}
+{"date": "2024-12-27", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": [7.0, 8.0]}
+{"date": "2024-12-27", "km_range": "Övezet 5-10", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": [8.0, 7.0]}
+{"date": "2024-12-27", "km_range": "Övezet 10-15", "factory": "Uni City", "address": "", "delivery_number": "", "m3_value": 0}
+{"date": "2024-12-27", "km_range": "Övezet 10-15", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": {"1": "8.0", "2": "8.0", "3": "0.0"}}
+{"date": "2024-12-27", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": {"1": "0.0", "2": "8.0", "3": "0.0"}}
+{"date": "2024-12-27", "km_range": "Övezet 5-10", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": {"1": "0.0", "2": "0.0", "3": "0.0"}}
+{"date": "2024-12-27", "factory": "Uni City", "address": "", "delivery_number": "", "stored_values": {"Övezet 0-5": 8.0, "Övezet 5-10": 8.0, "Övezet 10-15": 8.0}}
+{"date": "2024-12-27", "factory": "Uni City", "address": "", "delivery_number": "", "stored_values": {"Övezet 0-5": [8.0, 7.0, 5.5]}}
+{"date": "2024-12-27", "factory": "Uni City", "address": "", "delivery_number": "", "stored_values": {"Övezet 5-10": [5.0, 7.0, 7.0]}}
+{"date": "2024-12-27", "factory": "Uni City", "address": "", "delivery_number": "", "stored_values": {"Övezet 0-5": [7.0, 8.0], "Övezet 5-10": [8.0, 7.0, 5.5]}}
+{"date": "2024-12-27", "factory": "Uni City", "address": "Catl", "delivery_number": "1234", "stored_values": {"Övezet 5-10": [7.0, 8.0, 7.0]}}
+{"date": "2024-12-27", "factory": "Uni City", "address": "", "delivery_number": "", "stored_values": {"Övezet 0-5": [8.0, 7.0, 5.5]}}
+{"date": "2024-12-03", "factory": "Uni City", "address": "Al állomás", "delivery_number": "12030010", "stored_values": {"Övezet 0-5": [8.0, 8.0, 8.0, 8.0, 2.5]}}
